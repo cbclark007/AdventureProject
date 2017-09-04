@@ -1,0 +1,37 @@
+29b4ffae0be538af9d84ababc5cf6246ce496b30 (HEAD -> master, origin/master) Merge p                                                                                                                                                                                               ull request #7 from cbclark007/mountainvalleyentrance
+a884de894ba3b3931e3a623f2fde3ec65010fcb3 (origin/mountainvalleyentrance) player                                                                                                                                                                                                settles in beautiful mountain village, adventure complete
+9c352be21fcfa69aa576d397ed35cfeee13496b3 Merge pull request #6 from cbclark007/m                                                                                                                                                                                               ountainpathcontinue
+cacdc79181469691db478c34155d31850baabc8e (origin/mountainpathcontinue) falls to                                                                                                                                                                                                death from mountains
+585922194a2ba0aa45b8fa194e74fdf4525a2787 Merge pull request #5 from cbclark007/m                                                                                                                                                                                               ountainpathentrance
+9519c53ebbbdf0b734e8adc3c5da5034a2d122c4 (origin/mountainpathentrance) continuin                                                                                                                                                                                               g on mountain path up
+cd2377f92a4dc9904a416ea219afe7540c945c22 Merge pull request #4 from cbclark007/l                                                                                                                                                                                               eftcountryside
+4b2603af7f5f5f837e852b5016765ee1922cce5c (origin/leftcountryside) mountain choic                                                                                                                                                                                               es from right countryside
+29644cb6e419a0df65f857ae2fe742444af18487 Merge pull request #3 from cbclark007/r                                                                                                                                                                                               ightpath
+72b269d27871e8ed53acda8f2153ac80124bac9e (origin/rightpath) right path from orig                                                                                                                                                                                               inal made
+ed837f89b3e05b0d60c9200ca4f485b52a0f5163 Merge pull request #2 from cbclark007/b                                                                                                                                                                                               rookcontinue
+894a7e357a0f70e56bdb7f780a5651bd14e4f1b1 (origin/brookcontinue) brookcontinue fo                                                                                                                                                                                               :...skipping...
+29b4ffae0be538af9d84ababc5cf6246ce496b30 (HEAD -> master, origin/master) Merge pull request #7 from cbclark007/mountainvalleyentrance
+a884de894ba3b3931e3a623f2fde3ec65010fcb3 (origin/mountainvalleyentrance) player settles in beautiful mountain village, adventure complete
+9c352be21fcfa69aa576d397ed35cfeee13496b3 Merge pull request #6 from cbclark007/mountainpathcontinue
+cacdc79181469691db478c34155d31850baabc8e (origin/mountainpathcontinue) falls to death from mountains
+585922194a2ba0aa45b8fa194e74fdf4525a2787 Merge pull request #5 from cbclark007/mountainpathentrance
+9519c53ebbbdf0b734e8adc3c5da5034a2d122c4 (origin/mountainpathentrance) continuing on mountain path up
+cd2377f92a4dc9904a416ea219afe7540c945c22 Merge pull request #4 from cbclark007/leftcountryside
+4b2603af7f5f5f837e852b5016765ee1922cce5c (origin/leftcountryside) mountain choices from right countryside
+29644cb6e419a0df65f857ae2fe742444af18487 Merge pull request #3 from cbclark007/rightpath
+72b269d27871e8ed53acda8f2153ac80124bac9e (origin/rightpath) right path from original made
+ed837f89b3e05b0d60c9200ca4f485b52a0f5163 Merge pull request #2 from cbclark007/brookcontinue
+894a7e357a0f70e56bdb7f780a5651bd14e4f1b1 (origin/brookcontinue) brookcontinue found village to settle
+c4e27b682aa17f239f643dab8893d236c31f6700 Merge pull request #1 from cbclark007/smallbrook
+d1249f6a257d635d122d0de80233bf846dd1f925 (origin/smallbrook) text and image continue in smallbrook
+3db982116e7ddd0817a22f7bb512a3fa3dbe8333 leftpathcontinue2 done
+b1ebebe6aa0e07d7b23e0cb9869b68f4f24869ed Some color change in leftpathcontinue
+af9d2d70256de00af1ea837b2bcde9be2a390d78 Change text at top of endofcave (forgot)
+08f524ca19995b9df9453dffcf68e429c192f267 endofcave done, edit text in forestcave2
+54d7329ef5d05f02f68312d1815f5b7a757e05bb forestcave2 done
+fc07d770a8e3854570740428919c3e3c432871ec forgot to commit in last branch; forestcave
+b63abe6e1dd5fbb2298133c8dc855fd9e2d19083 Finish leftpathcontinue and add 2 options
+a0acfaf359ec8eeb9255c591f36781deaa2dbe58 files added to continue left
+7cb171fc7682d8d7f93bc5d38c2d0f9c541ee9e9 leftpath
+b7c48a47e532deea24153eaedddcb41d3b7b049d Index has choices to 2 pages
+9a27318e45603e8ae14975196ac3121f2b6392ee Initial commit
